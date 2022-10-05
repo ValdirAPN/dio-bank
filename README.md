@@ -1,2 +1,2 @@
-[] Add Lombok
-[] Add Unit Tests
+[X] Add Lombok
+[X] Add Unit Tests
